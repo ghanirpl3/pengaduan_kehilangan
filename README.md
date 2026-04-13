@@ -1,7 +1,7 @@
 # pengaduan_kehilangan
 
 ## 🚀 hostingan saya
-[Klik di sini untuk lihat website](https://pengaduan-kehilangan.gt.tc)
+[Klik di sini untuk lihat website](https://pengaduan-kehilangan-ghani.gt.tc/)
 
 ## Login Default
 
