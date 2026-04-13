@@ -6,9 +6,9 @@
 ## Login Default
 
 *Admin:*
-- Username: admin
-- Password: admin123
+- Username: ARIP
+- Password: 123
 
 *Siswa:*
-- Nis: 12001
-- Password: 12001
+- Nis: 2222
+- Password: 123
